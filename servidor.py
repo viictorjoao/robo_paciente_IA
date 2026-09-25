@@ -1,7 +1,7 @@
 """
 servidor.py
 ------------
-Essa é a "ponte" entre o robô físico (ESP32, da Equipe 1) e a IA.
+Essa é a "ponte" entre o robô físico (ESP32) e a IA.
 
 Fluxo:
 1. O ESP32 manda uma requisição HTTP com o texto que o estudante falou.
