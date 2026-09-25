@@ -2,7 +2,7 @@
 cliente_ia_gemini.py
 ----------------------
 Versão alternativa do cliente_ia.py, usando a API do Google Gemini
-(tem camada gratuita, sem precisar de cartão de crédito para começar).
+
 
 Para usar essa versão no lugar da API da Anthropic, no servidor.py troque:
     from cliente_ia import gerar_resposta
