@@ -1,4 +1,4 @@
-# Passo a passo do João — Integração da IA
+#  Integração da IA
 
 ## Ferramentas necessárias
 
