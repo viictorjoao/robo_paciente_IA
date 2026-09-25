@@ -1,0 +1,14 @@
+# Nunca subir o arquivo com a chave de API de verdade
+.env
+
+# Ambiente virtual do Python (cada um cria o seu localmente)
+venv/
+env/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Arquivos do sistema/editor
+.DS_Store
+.vscode/
