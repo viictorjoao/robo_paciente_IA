@@ -2,7 +2,7 @@
 cliente_ia.py
 --------------
 Responsável por: carregar o personagem escolhido e enviar a conversa
-para a API de IA, devolvendo a resposta em texto.
+para a API de IA, devolvendo a resposta em texto como o esperado.
 
 Esse é o "coração" do trabalho do João dentro da Equipe de IA.
 """
