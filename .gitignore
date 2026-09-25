@@ -1,4 +1,4 @@
-# Nunca subir o arquivo com a chave de API de verdade
+# JAMAIS subir o arquivo com a chave de API de verdade
 .env
 
 # Ambiente virtual do Python (cada um cria o seu localmente)
