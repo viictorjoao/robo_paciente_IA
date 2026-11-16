@@ -46,7 +46,7 @@ def gerar_resposta(personagem_id: str, historico: list, pergunta_estudante: str)
     contents.append(types.Content(role="user", parts=[types.Part(text=pergunta_estudante)]))
 
     resposta = client.models.generate_content(
-        model="gemini-2.5-flash",
+        model="gemini-3.8-flash",
         contents=contents,
         config=types.GenerateContentConfig(
             system_instruction=prompt_sistema,
