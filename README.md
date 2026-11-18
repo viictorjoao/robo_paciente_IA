@@ -123,9 +123,3 @@ tem uma camada gratuita sem cobrança inicial.
 O resto do projeto (servidor, personagens, integração com o ESP32) continua
 exatamente igual — só o "motor" da IA muda.
 
-## Passo 8 — Ajustes finais antes da AV1
-
-- Testar os dois personagens várias vezes seguidas, com perguntas diferentes.
-- Confirmar que a IA nunca sai do personagem nem se autodiagnostica.
-- Ajustar `max_tokens` em `cliente_ia.py` se as respostas estiverem muito longas ou curtas.
-- Combinar com o Diego a melhor forma de guardar o histórico (por enquanto está em memória — se o servidor reiniciar, perde a conversa).
